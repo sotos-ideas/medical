@@ -17,3 +17,5 @@ which wind could waft away or to which the wearer could habituate.
 
 * Sunscreen converts the heat of the sun's rays to a cooling effect.  (Alcohols do this -- evaporation causes cooling.
 Would have to find something more long-lasting.). But this might enable the wearer to stay in the sun longer!
+
+[Idea sparked by JAMA 2005; 294: 1544.]
